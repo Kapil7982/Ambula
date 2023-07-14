@@ -16,7 +16,7 @@ This is a sample Spring Boot application that demonstrates how to implement role
 - HSQL Database
 
 ## Installation
-git clone [https://github.com/Kapil7982/Assignment.git](https://github.com/Kapil7982/Ambula.git)
+git clone https://github.com/Kapil7982/Ambula.git
 
 ## HSQL database details
 
