@@ -1,9 +1,15 @@
 # User Location
+<<<<<<< HEAD
 
 This is a sample Spring Boot application that demonstrates how to implement role-based authentication using JSON Web Tokens (JWT) and Spring Security. It provides a RESTful API for managing customers and implements basic authentication and authorization mechanisms.
 
 ## Features
 
+=======
+This is a sample Spring Boot application that demonstrates how to implement role-based authentication using JSON Web Tokens (JWT) and Spring Security. It provides a RESTful API for managing customers and implements basic authentication and authorization mechanisms.
+
+## Features
+>>>>>>> f87f4869065f57e2a74e373202007b531b2099ce
 - User registration: Users can register by providing their name, email, password, and role (admin or reader).
 - User update: Users can update their profile information, including name, email, and password.
 - Get nearest users: Reader can retrieve a list of nearest users based on the provided count.
@@ -11,7 +17,10 @@ This is a sample Spring Boot application that demonstrates how to implement role
 - JSON Web Tokens (JWT): JWTs are used for authentication and securing API endpoints.
 
 ## Tech Stack
+<<<<<<< HEAD
 
+=======
+>>>>>>> f87f4869065f57e2a74e373202007b531b2099ce
 - Java
 - Spring Boot
 - Spring Security
@@ -19,7 +28,10 @@ This is a sample Spring Boot application that demonstrates how to implement role
 - HSQL Database
 
 ## Installation
+<<<<<<< HEAD
 
+=======
+>>>>>>> f87f4869065f57e2a74e373202007b531b2099ce
 git clone https://github.com/Kapil7982/Ambula.git
 
 ## HSQL database details
@@ -39,9 +51,13 @@ spring.datasource.password=port
 spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
 ```
+<<<<<<< HEAD
 
 ## Dependencies
 
+=======
+## Dependencies
+>>>>>>> f87f4869065f57e2a74e373202007b531b2099ce
 The project uses the following major dependencies:
 
 - Spring Boot
@@ -56,11 +72,17 @@ The project uses the following major dependencies:
 - Include the JWT token in the Authorization header of subsequent requests to access protected resources.
 
 # After running the application just hit the below URL to check the API's.
+<<<<<<< HEAD
 
 http://localhost:8888/swagger-ui/index.html
 
 ## Swagger-UI
 
+=======
+http://localhost:8888/swagger-ui/index.html
+
+## Swagger-UI
+>>>>>>> f87f4869065f57e2a74e373202007b531b2099ce
 ![WhatsApp Image 2023-07-14 at 5 48 26 PM](https://github.com/Kapil7982/Ambula/assets/103938868/b856a841-baaa-4fa5-b441-5c14f3d45f89)
 
 ![WhatsApp Image 2023-07-14 at 6 03 09 PM](https://github.com/Kapil7982/Ambula/assets/103938868/0bfafd1d-a251-4e1e-8fec-a874984ea7de)
@@ -74,3 +96,11 @@ http://localhost:8888/swagger-ui/index.html
 ![WhatsApp Image 2023-07-14 at 6 00 35 PM](https://github.com/Kapil7982/Ambula/assets/103938868/d33b8859-4235-48df-81af-9a727da9b453)
 
 ![WhatsApp Image 2023-07-14 at 5 55 56 PM](https://github.com/Kapil7982/Ambula/assets/103938868/527ebfd2-da07-4766-bfc7-44155e7a9a9e)
+<<<<<<< HEAD
+=======
+
+
+
+
+
+>>>>>>> f87f4869065f57e2a74e373202007b531b2099ce
